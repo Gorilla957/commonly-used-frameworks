@@ -16,10 +16,13 @@ No need to say, just use it.
 The network framework i used so far.
 
 ## [nimbus](https://github.com/jverkoey/nimbus)
-nimbus has
+nimbus has many ui library.
 
 ## [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-I always use MBProgressHUD until i met Beeframework(Beeframework has itw own tip class,and easy to use).
+I always use MBProgressHUD until i met Beeframework(Beeframework has its own tip class,and easy to use).
+
+## [MJRefresh](https://github.com/151283250/MJRefresh)
+MJRefresh maybe not well-known ,but i promise it was good to use .(I know EGOTableViewPullRefresh, but i wont use it anymore).
 
 ## []
 
