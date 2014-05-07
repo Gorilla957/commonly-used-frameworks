@@ -27,6 +27,9 @@ MJRefresh maybe not well-known ,but i promise it was good to use .(I know EGOTab
 ## [SDWebImage](https://github.com/rs/SDWebImage)
 It's wonderful for imagecache and load image asynchronous。
 
+## [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
+When your project has a form page,just like its name ,avoid input controls being covered by keyboard.
+
 # Someday I will try these:
 
 ## [AFNetworking](https://github.com/AFNetworking/AFNetworking)
@@ -35,4 +38,5 @@ I don't know the difference with ASI, but many developers use ,so...
 ## [BlocksKit](https://github.com/pandamonia/BlocksKit)
 If you like blocks, you need to try.
 
-
+## [SVProgressHUD](https://github.com/samvermette/SVProgressHUD)
+Maybe someday i tired of MBProgressbar...
