@@ -30,6 +30,9 @@ It's wonderful for imagecache and load image asynchronous。
 ## [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
 When your project has a form page,just like its name ,avoid input controls being covered by keyboard.
 
+## [CPTextViewPlaceholder](https://github.com/ultimateboro/CPTextViewPlaceholder)
+A textview with placeholder.
+
 # Someday I will try these:
 
 ## [AFNetworking](https://github.com/AFNetworking/AFNetworking)
