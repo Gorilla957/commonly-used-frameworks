@@ -4,42 +4,31 @@ The frameworks i commonly used.
 
 
 ## [Beeframework](https://github.com/gavinkwoe/BeeFramework)
-The main framework i use.
+最主要的底层框架，整个工程的mvc架构全靠它。
 
-## [KVOController](https://github.com/facebook/KVOController)
-From facebook, a controller for key-value observing implementation.
 
 ## [pop](https://github.com/facebook/pop)
-No need to say, just use it.
+facebook的动画框架，这里有我的一个demo:[POPdemo](https://github.com/jxd001/POPdemo)
 
-## [ASIHTTPRequest](https://github.com/pokeb/asi-http-request)
-The network framework i used so far.
-
-## [nimbus](https://github.com/jverkoey/nimbus)
-nimbus has many ui library,it can help you for build ui.
-
-## [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-I always use MBProgressHUD until i met Beeframework(Beeframework has its own tip class,and easy to use).
 
 ## [MJRefresh](https://github.com/151283250/MJRefresh)
-MJRefresh maybe not well-known ,but i promise it was good to use .(I know EGOTableViewPullRefresh, but i wont use it anymore).
+好多人用EGOTableViewPullRefresh，刚开始我也用，自从我发现MFRefresh，我就不用EGO了，因为集成太简单了~
 
 ## [SDWebImage](https://github.com/rs/SDWebImage)
-It's wonderful for imagecache and load image asynchronous。
+图片缓存、图片下载全靠它。
 
 ## [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
-When your project has a form page,just like its name ,avoid input controls being covered by keyboard.
+不管你用uiscrollview做表单页面，还是用uitableview，想让键盘不遮住输入框，用这个框架，可以让你爽到爆！
 
 ## [CPTextViewPlaceholder](https://github.com/ultimateboro/CPTextViewPlaceholder)
-A textview with placeholder.
+它可以让textview具有placeholder属性。
 
-# Someday I will try these:
+# 下面的我还没尝试，暂时做个记录
 
 ## [AFNetworking](https://github.com/AFNetworking/AFNetworking)
-I don't know the difference with ASI, but many developers use ,so...
+
 
 ## [BlocksKit](https://github.com/pandamonia/BlocksKit)
-If you like blocks, you need to try.
+方便写block的。
 
-## [SVProgressHUD](https://github.com/samvermette/SVProgressHUD)
-Maybe someday i tired of MBProgressbar...
+
