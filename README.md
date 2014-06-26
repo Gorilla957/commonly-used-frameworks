@@ -13,7 +13,7 @@ The frameworks i commonly used.
 facebook的动画框架，这里有我的一个demo:[POPdemo](https://github.com/jxd001/POPdemo)
 
 
-## [MJRefresh](https://github.com/151283250/MJRefresh)
+## [MJRefresh](hhttps://github.com/jxd001/MJRefresh-1)
 好多人用EGOTableViewPullRefresh，刚开始我也用，自从我发现MFRefresh，我就不用EGO了，因为集成太简单了~
 
 ## [SDWebImage](https://github.com/rs/SDWebImage)
