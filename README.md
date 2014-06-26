@@ -14,7 +14,7 @@ facebook的动画框架，这里有我的一个demo:[POPdemo](https://github.com
 
 
 ## [MJRefresh](https://github.com/jxd001/MJRefresh-1)
-好多人用EGOTableViewPullRefresh，刚开始我也用，自从我发现MFRefresh，我就不用EGO了，因为集成太简单了~
+好多人用EGOTableViewPullRefresh，刚开始我也用，自从我发现这个，我就不用EGO了，因为集成太简单了~
 
 ## [SDWebImage](https://github.com/rs/SDWebImage)
 图片缓存、图片下载全靠它。
