@@ -6,7 +6,7 @@ The frameworks i commonly used.
 ## [Beeframework](https://github.com/gavinkwoe/BeeFramework)
 最主要的底层框架，整个工程的mvc架构全靠它。
 
-## [TwitterCover](https://github.com/jxd001/CustomTabbar)
+## [CustomTabbar](https://github.com/jxd001/CustomTabbar)
 自定义的tabbar，比系统原生的好用
 
 ## [pop](https://github.com/facebook/pop)
@@ -24,6 +24,9 @@ facebook的动画框架，这里有我的一个demo:[POPdemo](https://github.com
 
 ##[EScrollerView](https://github.com/jxd001/EScrollerView)
 一个可以自动滚动的跑马灯（幻灯、图片滚动）
+
+## [TwitterCover](https://github.com/jxd001/TwitterCover-1)
+UIScrollview方便添加Path景深效果的category
 
 ## [CPTextViewPlaceholder](https://github.com/ultimateboro/CPTextViewPlaceholder)
 它可以让textview具有placeholder属性。
