@@ -31,6 +31,9 @@ UIScrollview方便添加Path景深效果的category
 ## [CPTextViewPlaceholder](https://github.com/ultimateboro/CPTextViewPlaceholder)
 它可以让textview具有placeholder属性。
 
+## [BlockUIAlertView](https://github.com/jxd001/BlockUIAlertView)
+带block的uialertview
+
 # 下面的我还没尝试，暂时做个记录
 
 ## [AFNetworking](https://github.com/AFNetworking/AFNetworking)
