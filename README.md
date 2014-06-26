@@ -20,6 +20,9 @@ facebook的动画框架，这里有我的一个demo:[POPdemo](https://github.com
 ## [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
 不管你用uiscrollview做表单页面，还是用uitableview，想让键盘不遮住输入框，用这个框架，可以让你爽到爆！
 
+##[EScrollerView](https://github.com/jxd001/EScrollerView)
+一个可以自动滚动的跑马灯（幻灯、图片滚动）
+
 ## [CPTextViewPlaceholder](https://github.com/ultimateboro/CPTextViewPlaceholder)
 它可以让textview具有placeholder属性。
 
